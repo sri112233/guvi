@@ -9,4 +9,4 @@ elif (y > x) and (y > z):
 else:
    largest = z
  
-print("The largest number is",largest)
+print(largest)
